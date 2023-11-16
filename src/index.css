@@ -1,0 +1,16 @@
+:root{
+    --color-main: #3498db;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #3498db;
+    display: flex;
+    justify-content: center;
+    padding-top: 32px;
+}
